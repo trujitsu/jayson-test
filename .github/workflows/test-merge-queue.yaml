@@ -1,7 +1,6 @@
 name: Simple Merge Queue Test
 
 on:
-  pull_request:
   merge_group:
     branches: [ main ]
 
